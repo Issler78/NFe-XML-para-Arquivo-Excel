@@ -1,11 +1,3 @@
-# Software para automação extração de informações, única ou em massa, de arquivos XML (Nota Fiscal Eletrônica) e conversão em formado XLSX (Excel). Exemplo:
-
-# São inseridos 100 (cem) NFe em formato XML no Script e serão retornadas, em forma de tabela, as informações de:
-# Número da nota; XXX
-# Emissor da nota; XXX
-# Destinatário; XXX
-# Produto.
-
 import os
 import openpyxl
 from openpyxl.worksheet.table import Table, TableStyleInfo
