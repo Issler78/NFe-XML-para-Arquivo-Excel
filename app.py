@@ -120,4 +120,4 @@ for col_letter, width in column_widths.items():
     nf_page.column_dimensions[col_letter].width = width
 
 # salvar tabela
-wb.save('Excel/Notas_Fiscais.xlsx')
+wb.save('Notas_Fiscais.xlsx')
