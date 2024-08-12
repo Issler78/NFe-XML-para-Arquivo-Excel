@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10009</nNF>
+    </ide>
+    <emit>
+      <CNPJ>77777777000888</CNPJ>
+      <xNome>Fábrica de Ideias LTDA</xNome>
+      <enderEmit>
+        <xLgr>Rua dos Sonhos</xLgr>
+        <nro>200</nro>
+        <xMun>Fortaleza</xMun>
+        <UF>CE</UF>
+        <CEP>60000000</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>88888888000999</CNPJ>
+      <xNome>Cliente Criativo SA</xNome>
+      <enderDest>
+        <xLgr>Rua das Flores</xLgr>
+        <nro>777</nro>
+        <xMun>Recife</xMun>
+        <UF>PE</UF>
+        <CEP>70000000</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0009</cProd>
+        <xProd>Produto Exemplo I</xProd>
+        <qCom>50.0000</qCom>
+        <uCom>KG</uCom>
+        <vUnCom>5.00</vUnCom>
+        <vProd>250.00</vProd>
+        <pesoL>50.000</pesoL>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>

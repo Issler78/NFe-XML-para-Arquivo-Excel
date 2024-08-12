@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10004</nNF>
+    </ide>
+    <emit>
+      <CNPJ>77777777000177</CNPJ>
+      <xNome>Empresa D LTDA</xNome>
+      <enderEmit>
+        <xLgr>Rua Sete</xLgr>
+        <nro>700</nro>
+        <xMun>Cidade G</xMun>
+        <UF>BA</UF>
+        <CEP>07007007</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>88888888000188</CNPJ>
+      <xNome>Cliente D SA</xNome>
+      <enderDest>
+        <xLgr>Avenida Oito</xLgr>
+        <nro>800</nro>
+        <xMun>Cidade H</xMun>
+        <UF>PE</UF>
+        <CEP>08008008</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0004</cProd>
+        <xProd>Produto D</xProd>
+        <qCom>8.0000</qCom>
+        <uCom>UN</uCom>
+        <vUnCom>10.00</vUnCom>
+        <vProd>80.00</vProd>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>

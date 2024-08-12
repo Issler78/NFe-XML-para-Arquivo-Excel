@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10008</nNF>
+    </ide>
+    <emit>
+      <CNPJ>55555555000666</CNPJ>
+      <xNome>Distribuidora XYZ LTDA</xNome>
+      <enderEmit>
+        <xLgr>Rua da Independência</xLgr>
+        <nro>555</nro>
+        <xMun>Porto Alegre</xMun>
+        <UF>RS</UF>
+        <CEP>90000000</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>66666666000777</CNPJ>
+      <xNome>Cliente Inovador SA</xNome>
+      <enderDest>
+        <xLgr>Praça da Liberdade</xLgr>
+        <nro>888</nro>
+        <xMun>Florianópolis</xMun>
+        <UF>SC</UF>
+        <CEP>80000000</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0008</cProd>
+        <xProd>Produto Exemplo H</xProd>
+        <qCom>25.0000</qCom>
+        <uCom>UN</uCom>
+        <vUnCom>10.00</vUnCom>
+        <vProd>250.00</vProd>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10007</nNF>
+    </ide>
+    <emit>
+      <CNPJ>22222222000444</CNPJ>
+      <xNome>Comércio de Exemplos LTDA</xNome>
+      <enderEmit>
+        <xLgr>Rua das Palmeiras</xLgr>
+        <nro>789</nro>
+        <xMun>Belo Horizonte</xMun>
+        <UF>MG</UF>
+        <CEP>30000000</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>44444444000555</CNPJ>
+      <xNome>Cliente Virtual SA</xNome>
+      <enderDest>
+        <xLgr>Avenida Central</xLgr>
+        <nro>101</nro>
+        <xMun>Curitiba</xMun>
+        <UF>PR</UF>
+        <CEP>40000000</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0007</cProd>
+        <xProd>Produto Exemplo G</xProd>
+        <qCom>20.0000</qCom>
+        <uCom>L</uCom>
+        <vUnCom>15.00</vUnCom>
+        <vProd>300.00</vProd>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>

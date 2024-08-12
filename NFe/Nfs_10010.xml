@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10010</nNF>
+    </ide>
+    <emit>
+      <CNPJ>99999999001010</CNPJ>
+      <xNome>Indústria ABC LTDA</xNome>
+      <enderEmit>
+        <xLgr>Avenida Principal</xLgr>
+        <nro>300</nro>
+        <xMun>Manaus</xMun>
+        <UF>AM</UF>
+        <CEP>50000000</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>10101010101111</CNPJ>
+      <xNome>Cliente Tecnológico SA</xNome>
+      <enderDest>
+        <xLgr>Rua do Futuro</xLgr>
+        <nro>999</nro>
+        <xMun>Brasília</xMun>
+        <UF>DF</UF>
+        <CEP>60000000</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0010</cProd>
+        <xProd>Produto Exemplo J</xProd>
+        <qCom>100.0000</qCom>
+        <uCom>L</uCom>
+        <vUnCom>3.00</vUnCom>
+        <vProd>300.00</vProd>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>

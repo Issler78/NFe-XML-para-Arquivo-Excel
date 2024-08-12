@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10003</nNF>
+    </ide>
+    <emit>
+      <CNPJ>55555555000155</CNPJ>
+      <xNome>Empresa C LTDA</xNome>
+      <enderEmit>
+        <xLgr>Rua das Palmeiras</xLgr>
+        <nro>120</nro>
+        <xMun>Cidade E</xMun>
+        <UF>RS</UF>
+        <CEP>05005005</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>66666666000166</CNPJ>
+      <xNome>Cliente C SA</xNome>
+      <enderDest>
+        <xLgr>Rua XV de Novembro</xLgr>
+        <nro>300</nro>
+        <xMun>Cidade F</xMun>
+        <UF>PR</UF>
+        <CEP>06006006</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0003</cProd>
+        <xProd>Produto C</xProd>
+        <qCom>15.0000</qCom>
+        <uCom>KG</uCom>
+        <vUnCom>45.00</vUnCom>
+        <vProd>675.00</vProd>
+        <pesoL>15.000</pesoL>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>

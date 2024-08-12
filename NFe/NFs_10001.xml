@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<NFe xmlns="http://www.portalfiscal.inf.br/nfe" versao="4.00">
+  <infNFe>
+    <ide>
+      <nNF>10001</nNF>
+    </ide>
+    <emit>
+      <CNPJ>11111111000111</CNPJ>
+      <xNome>Vantajão LTDA</xNome>
+      <enderEmit>
+        <xLgr>Rua Alberto Vieira</xLgr>
+        <nro>100</nro>
+        <xMun>Caxias do Sul</xMun>
+        <UF>RS</UF>
+        <CEP>95095600</CEP>
+      </enderEmit>
+    </emit>
+    <dest>
+      <CNPJ>22222222000122</CNPJ>
+      <xNome>Carrefour LTDA</xNome>
+      <enderDest>
+        <xLgr>Rua Dois Irmãos</xLgr>
+        <nro>200</nro>
+        <xMun>Caxias do Sul</xMun>
+        <UF>RS</UF>
+        <CEP>95098700</CEP>
+      </enderDest>
+    </dest>
+    <det nItem="1">
+      <prod>
+        <cProd>0001</cProd>
+        <xProd>Produto A</xProd>
+        <qCom>10.0000</qCom>
+        <uCom>KG</uCom>
+        <vUnCom>30.00</vUnCom>
+        <vProd>300.00</vProd>
+        <pesoL>10.000</pesoL>
+      </prod>
+    </det>
+  </infNFe>
+</NFe>
